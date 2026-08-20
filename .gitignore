@@ -1,0 +1,15 @@
+.next/
+node_modules/
+.pnpm-store/
+.venv/
+.whisper-cache/
+*.ses
+*.log
+*.tsbuildinfo
+.DS_Store
+.env
+.env.local
+cookies.txt
+cookies*.txt
+*.cookie
+*.cookies

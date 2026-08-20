@@ -1,0 +1,17 @@
+.git
+.github
+.next
+node_modules
+.pnpm-store
+.venv
+.whisper-cache
+.env
+.env.*
+cookies.txt
+cookies*.txt
+*.cookie
+*.cookies
+*.log
+*.ses
+*.tsbuildinfo
+.DS_Store
