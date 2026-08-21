@@ -28,6 +28,5 @@ COPY . .
 RUN pnpm build
 
 EXPOSE 3000
-VOLUME ["/app/.whisper-cache"]
 
 CMD ["sh", "-c", "pnpm start --hostname 0.0.0.0 --port ${PORT:-3000}"]
